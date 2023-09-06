@@ -51,4 +51,4 @@ async def on_message(message):
             f"Here are some suggested corrections: {corrections}"
         )
 
-bot.run("MTA1MDczMzE4ODAxMzYyNTQwNA.G7Pu3A.uLMZqTSlwihKwsNw6fSuNLuYytAke0DXQtzvhg")
+bot.run("Your-Discord-Bot-Token")
